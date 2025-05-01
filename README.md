@@ -51,7 +51,3 @@ streamlit run app/main.py
 - `app/main.py` – Streamlit dashboard script
 - `data/world_data.csv` – Default dataset
 - `README.md` – Project documentation
-
----
-
-📈 Powered by Pandas, Plotly, and Streamlit for global data exploration.
